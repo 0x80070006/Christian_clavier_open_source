@@ -1,18 +1,18 @@
 <p align="center">
   <img src="./assets/keyra-logo.png" alt="Logo Keyra" width="180">
 </p>
+
 > [!WARNING]
-> ## 🚧 Application encore en développement
+> ### 🚧 Application encore en développement
 >
 > **Keyra est actuellement en cours de développement actif.**
 >
-> Certaines fonctionnalités peuvent encore présenter des **bugs**, de petites **latences**, des comportements inattendus ou des différences selon l'appareil, la version d'Android ou l'application utilisée.
+> Certaines fonctionnalités peuvent encore présenter des **bugs**, de légères **latences** ou des comportements inattendus selon l'appareil, la version d'Android ou l'application utilisée.
 >
 > Le projet évolue régulièrement afin d'améliorer la **fluidité**, la **précision de frappe**, la **stabilité**, les **suggestions** et la **correction de texte**.
 >
-> Si vous rencontrez un problème, n'hésitez pas à le signaler dans les **Issues GitHub** avec votre modèle de téléphone, votre version d'Android et une courte description du bug.
->
-> **Merci de garder à l'esprit qu'il ne s'agit pas encore d'une version finale/stable.**
+> Merci de garder à l'esprit qu'il ne s'agit pas encore d'une version totalement stable.
+
 <h1 align="center">Keyra</h1>
 
 <p align="center">
