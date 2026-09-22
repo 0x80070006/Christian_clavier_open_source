@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra_v3.0.apk">
+  <a href="https://github.com/0x80070006/Keyra_clavier_open_source/releases/download/v3.0/Keyra_v3.0.apk">
     <img alt="Télécharger Keyra v3.0" src="https://img.shields.io/badge/T%C3%A9L%C3%89CHARGER-KEYRA%20v3.0-2de2c4?style=for-the-badge&logo=android&logoColor=000000">
   </a>
   <a href="./PATCH_NOTES.md">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0x80070006/Christian_clavier_open_source/releases/tag/v3.0">Release GitHub v3.0</a>
+  <a href="https://github.com/0x80070006/Keyra_clavier_open_source/releases/tag/v3.0">Release GitHub v3.0</a>
   ·
   <a href="./PRIVACY.md">Confidentialité</a>
 </p>
@@ -37,7 +37,7 @@ Le moteur de saisie est conçu pour rester fiable lorsque l'utilisateur tape tr�
 
 ### Android — APK
 
-[**Télécharger directement Keyra v3.0 (.apk)**](https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra_v3.0.apk)
+[**Télécharger directement Keyra v3.0 (.apk)**](https://github.com/0x80070006/Keyra_clavier_open_source/releases/download/v3.0/Keyra_v3.0.apk)
 
 Le fichier APK est hébergé dans la release GitHub **v3.0**.
 
@@ -142,7 +142,7 @@ Le nom exact des menus peut varier selon la version d'Android et le fabricant.
 
 Pour mettre Keyra à jour, installez l'APK d'une version plus récente par-dessus la version déjà installée, à condition que les builds utilisent la même signature Android.
 
-Les versions publiées sont disponibles dans les **[GitHub Releases](https://github.com/0x80070006/Christian_clavier_open_source/releases)**.
+Les versions publiées sont disponibles dans les **[GitHub Releases](https://github.com/0x80070006/Keyra_clavier_open_source/releases)**.
 
 ## Construire depuis les sources
 
@@ -181,7 +181,7 @@ Les changements de la version actuelle sont détaillés ici :
 
 La release GitHub correspondante est disponible ici :
 
-[**Keyra v3.0 sur GitHub**](https://github.com/0x80070006/Christian_clavier_open_source/releases/tag/v3.0)
+[**Keyra v3.0 sur GitHub**](https://github.com/0x80070006/Keyra_clavier_open_source/releases/tag/v3.0)
 
 ## Contribuer
 
@@ -215,7 +215,7 @@ Pour les bugs de saisie, indiquez si possible :
 
 ## Signaler un bug
 
-Utilisez les **[GitHub Issues](https://github.com/0x80070006/Christian_clavier_open_source/issues)** avec une procédure de reproduction courte et précise.
+Utilisez les **[GitHub Issues](https://github.com/0x80070006/Keyra_clavier_open_source/issues)** avec une procédure de reproduction courte et précise.
 
 Pour les problèmes de lettres perdues ou de touches qui restent en surbrillance, précisez notamment si le bug apparaît :
 
@@ -230,9 +230,9 @@ Pour les problèmes de lettres perdues ou de touches qui restent en surbrillance
 - **Application :** Keyra
 - **Plateforme :** Android
 - **Version :** v3.0
-- **Dépôt :** https://github.com/0x80070006/Christian_clavier_open_source
-- **Release :** https://github.com/0x80070006/Christian_clavier_open_source/releases/tag/v3.0
-- **APK :** `Keyra-Pixel-9a.apk`
+- **Dépôt :** https://github.com/0x80070006/Keyra_clavier_open_source
+- **Release :** https://github.com/0x80070006/Keyra_clavier_open_source/releases/tag/v3.0
+- **APK :** `Keyra_vx.x.apk`
 
 ---
 
