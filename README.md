@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra-Pixel-9a.apk">
+  <a href="https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra_v3.0.apk">
     <img alt="Télécharger Keyra v3.0" src="https://img.shields.io/badge/T%C3%A9L%C3%89CHARGER-KEYRA%20v3.0-2de2c4?style=for-the-badge&logo=android&logoColor=000000">
   </a>
   <a href="./PATCH_NOTES.md">
