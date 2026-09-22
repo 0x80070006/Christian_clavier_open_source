@@ -1,0 +1,13 @@
+Contenu prêt à déposer à la racine du dépôt GitHub :
+
+- README.md
+- PATCH_NOTES.md
+- PRIVACY.md
+- assets/keyra-logo.png
+
+Le bouton DOWNLOAD du README pointe vers :
+https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra-Pixel-9a.apk
+
+Important : ce lien direct suppose que l'asset de la release v3.0 porte exactement le nom
+Keyra-Pixel-9a.apk. Si le fichier sur GitHub a un autre nom, remplacez uniquement cette URL
+dans README.md et PATCH_NOTES.md.
