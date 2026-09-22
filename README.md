@@ -37,7 +37,7 @@ Le moteur de saisie est conçu pour rester fiable lorsque l'utilisateur tape tr�
 
 ### Android — APK
 
-[**Télécharger directement Keyra v3.0 (.apk)**](https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra-Pixel-9a.apk)
+[**Télécharger directement Keyra v3.0 (.apk)**](https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra_v3.0.apk)
 
 Le fichier APK est hébergé dans la release GitHub **v3.0**.
 
